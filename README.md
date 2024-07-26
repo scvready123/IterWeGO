@@ -61,7 +61,7 @@ If our work is helpful to your research, please cite:
                See-Kiong Ng and
                Heng Tao Shen,
   title     = {Leveraging Weak Cross-Modal Guidance for Coherence Modelling via Iterative Learning},
-  booktitle = {Proceedings of the 32th ACM International Conference on Multimedia, 28 October – 1 November, 2024, Melbourne, Australia.},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia, 28 October – 1 November, 2024, Melbourne, Australia.},
   year      = {2024},
 }
 ```
