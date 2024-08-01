@@ -47,6 +47,10 @@ python main.py --train_image_dir [train_img_dir] --val_image_dir [val_img_dir] -
 python eval.py --img_test_data_path data/img/test.tsv --txt_test_data_path data/sent/test.tsv
 ```
 
+## Cases
+
+![cases](cases.png)
+
 ## Citation
 If our work is helpful to your research, please cite:
 
