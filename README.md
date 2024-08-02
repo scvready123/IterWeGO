@@ -4,6 +4,7 @@ Implementation of our paper, "Leveraging Weak Cross-Modal Guidance for Coherence
 ## Introduction
 In this work, we try to recover semantic coherence of unordered images and texts by utilizing cross-model information. Previous works mainly take the advantage of golden information from another ordered modality to assist the semantic coherence recovering of the target modality. However, in practical applications, it is challenging to acquire ordered data. To overcome this challenge, We propose a novel **Weak Cross-modal Guided Ordering model with Iterative Learning (IterWEGO)**, which could iteratively recover cross-modal semantic coherence through mutual assistance between two modalities without additional ordered positional information annotations.
 
+![Fig](Fig.png)
 
 ## Requirements 
 We recommended the following dependencies.
