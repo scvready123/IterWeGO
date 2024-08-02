@@ -35,6 +35,12 @@ Run the prepare_data_img.py to prepare test img data:
 python prepare_data_img.py --data_dir [sind_data_dir] --out_dir [output_dir] --task_name sind
 ```
 
+Run the prepare_data_txt.py to prepare test txt data:
+
+```
+python prepare_data_txt.py --data_dir [sind_data_dir] --out_dir [output_dir] --task_name sind
+```
+
 ### Pretrained model
 Please download the pretrained model from [here](https://drive.google.com/drive/folders/1q-zCIm2_XsFkhVfXJCyK879jCrds59Uw?usp=drive_link)
 
